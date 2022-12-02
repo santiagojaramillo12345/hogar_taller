@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561642310402",
+    "project_id": "hogar-gastos",
+    "storage_bucket": "hogar-gastos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561642310402:android:1946531cce3aa8d947501b",
+        "android_client_info": {
+          "package_name": "com.example.hogar_gastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561642310402-3l20uftusgouvfhgk8lklbmp9surr85d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjlMivnbH5vtj6N-26G3p9ZHjzfddh96I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561642310402-3l20uftusgouvfhgk8lklbmp9surr85d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
